@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	        System.out.println("Git Versioning From IntelliJIdea");
+	        System.out.println("Git Versioning From IntelliJIdeas");
     }
 }
