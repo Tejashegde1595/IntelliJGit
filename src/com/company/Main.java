@@ -8,5 +8,6 @@ public class Main {
             anon.print();
             Sumo sumo = new Sumo();
             sumo.fightSumo();
+            sumo.fighters();
     }
 }
