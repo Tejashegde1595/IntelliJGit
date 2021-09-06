@@ -6,5 +6,8 @@ public class Main {
 	        System.out.println("Git Versioning From IntelliJIdeas");
             Anon anon = new Anon();
             anon.print();
+            Sumo sumo = new Sumo();
+            sumo.fightSumo();
+            sumo.fighters();
     }
 }
